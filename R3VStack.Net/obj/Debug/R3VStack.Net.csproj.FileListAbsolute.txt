@@ -1,0 +1,7 @@
+Z:\Documents\Development\HTML5\R3VStack.Net\R3VStack.Net\R3VStack.Net\bin\Debug\R3VStack.Net.dll
+Z:\Documents\Development\HTML5\R3VStack.Net\R3VStack.Net\R3VStack.Net\bin\Debug\R3VStack.Net.pdb
+Z:\Documents\Development\HTML5\R3VStack.Net\R3VStack.Net\R3VStack.Net\obj\Debug\R3VStack.Net.dll
+Z:\Documents\Development\HTML5\R3VStack.Net\R3VStack.Net\R3VStack.Net\obj\Debug\R3VStack.Net.pdb
+Z:\Documents\Development\HTML5\R3VStack.Net\R3VStack.Net\R3VStack.Net\bin\Debug\Newtonsoft.Json.dll
+Z:\Documents\Development\HTML5\R3VStack.Net\R3VStack.Net\R3VStack.Net\bin\Debug\Newtonsoft.Json.xml
+Z:\Documents\Development\HTML5\R3VStack.Net\R3VStack.Net\R3VStack.Net\obj\Debug\R3VStack.Net.csprojResolveAssemblyReference.cache
